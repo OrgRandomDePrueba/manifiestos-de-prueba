@@ -6,10 +6,6 @@ env:
     mysqlHost: "10.20.0.10"
     mysqlPort: "3306"
     apiURL: "{0}/api/Contratos/InformacionContratoPorNumeroDeEnvio/{1}?format=json"
-    vacio: "BORRE LA VARIABLE O COLOQUE UN VALOR"
-    testNulo: "BORRE LA VARIABLE O COLOQUE UN VALOR"
-    textoPlano: "planitud"
-    testBooleano: "false"
   secret:
     mysqlUsername: user1
     mysqlPassword: password1
@@ -65,4 +61,3 @@ configMap:
       uno 
        dos
 clusterlogging: false
-...
