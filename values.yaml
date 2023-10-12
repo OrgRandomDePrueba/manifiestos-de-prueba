@@ -6,7 +6,7 @@ env:
     mysqlHost: 10.20.0.10
     mysqlPort: 3306
     apiURL: '{0}/api/Contratos/InformacionContratoPorNumeroDeEnvio/{1}?format=json'
-    CONFIG__URL: "https://altaurlfalsa.com/api/sus"
+    CONFIG__URL: "hello"
   secret:
     mysqlUsername: user1
     mysqlPassword: password1
